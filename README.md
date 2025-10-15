@@ -1,5 +1,5 @@
 ## Steps Taken
-1. Created a Resource Group: `RG-3TierApp-YourName`
+1. Created a Resource Group: `rg_sb_eastus_270017_1_176050166411`
 2. Configured a Virtual Network with 3 subnets:
    - WebSubnet
    - AppSubnet
