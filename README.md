@@ -41,11 +41,11 @@ This project demonstrates deploying a multi-tier web application architecture in
 
 | Feature | Screenshot |
 |--------|------------|
-| Resource Group | `Screenshots/01_ResourceGroup.png` |
-| VNet & Subnets | `Screenshots/02_VNet_Subnets.png` |
-| App Service | `Screenshots/03_AppService.png` |
-| VM | `Screenshots/04_VM.png` |
-| SQL Database | `Screenshots/05_SQLDB.png` |
+| Resource Group | `Screenshots/01_ResourceGroup.png.png` |
+| VNet & Subnets | `Screenshots/02_VNet_Subnets.png.png` |
+| App Service | `Screenshots/03_AppService.png.png` |
+| VM | `Screenshots/04_VM.png.png` |
+| SQL Database | `Screenshots/05_SQLDB.png.png` |
 ---
 
 ## Limitations & Future Improvements  
