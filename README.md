@@ -18,7 +18,7 @@ This project demonstrates deploying a multi-tier web application architecture in
 ---
 
 ## Architecture  
-![Architecture Diagram](Architecture_Diagram.png)
+![Architecture Diagram](Architecture_Diagram.png.png)
 
 ---
 
